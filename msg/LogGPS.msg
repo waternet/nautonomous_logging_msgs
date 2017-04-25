@@ -1,4 +1,5 @@
 Header header
 string name
 string mac
-sensor_msgs/NavSatFix gpsMsg
+float64 latitude
+float64 longitude
